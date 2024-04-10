@@ -1,0 +1,25 @@
+{
+    "Enemies": [
+        {
+            "Name": "Draugr",
+            "Health": 25,
+            "Damage": 5,
+            "Reward": 1,
+            "TimeToReachEnd": 30
+        },
+        {
+            "Name": "Armored Draugr",
+            "Health": 50,
+            "Damage": 5,
+            "Reward": 2,
+            "TimeToReachEnd": 35
+        },
+        {
+            "Name": "Armed Draugr",
+            "Health": 25,
+            "Damage": 10,
+            "Reward": 2,
+            "TimeToReachEnd": 30
+        }
+    ]
+}

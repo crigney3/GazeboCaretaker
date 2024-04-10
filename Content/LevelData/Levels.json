@@ -1,7 +1,28 @@
 {
     "Levels": [
         {
-            
+            "Reward": 10,
+            "SpawnDelay": 2.5,
+            "Enemies": [
+                {
+                    "Name": "Draugr",
+                    "Count": 20
+                }
+            ]
+        },
+        {
+            "Reward": 20,
+            "SpawnDelay": 2.5,
+            "Enemies": [
+                {
+                    "Name": "Draugr",
+                    "Count": 20
+                },
+                {
+                    "Name": "Armed Draugr",
+                    "Count": 5
+                }
+            ]
         }
     ]
 }
