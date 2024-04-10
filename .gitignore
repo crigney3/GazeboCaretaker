@@ -1,0 +1,35 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+Content/*
+!Content/Actors
+!Content/Scenes
+!Content/Fonts
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+Plugins/*/Binaries/*
+# Built data for maps
+*_BuiltData.uasset
