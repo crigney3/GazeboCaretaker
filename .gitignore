@@ -17,6 +17,8 @@ Content/*
 !Content/Actors
 !Content/Scenes
 !Content/Fonts
+!Content/Structs
+!Content/LevelData
 # Compiled Object files
 *.slo
 *.lo
