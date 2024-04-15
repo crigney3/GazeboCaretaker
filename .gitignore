@@ -19,6 +19,8 @@ Content/*
 !Content/Fonts
 !Content/Structs
 !Content/LevelData
+!Content/UIAndWidgets
+!Content/TopDown
 # Compiled Object files
 *.slo
 *.lo
