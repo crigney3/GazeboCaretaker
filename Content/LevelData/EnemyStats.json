@@ -1,25 +1,39 @@
 {
     "Enemies": [
         {
-            "Name": "Draugr",
-            "Health": 25,
+            "Name": "Zombie",
+            "Health": 15,
             "Damage": 5,
             "Reward": 1,
+            "TimeToReachEnd": 40
+        },
+        {
+            "Name": "Fast Zombie",
+            "Health": 12,
+            "Damage": 5,
+            "Reward": 2,
+            "TimeToReachEnd": 20
+        },
+        {
+            "Name": "Draugr",
+            "Health": 35,
+            "Damage": 5,
+            "Reward": 3,
             "TimeToReachEnd": 30
         },
         {
             "Name": "Armored Draugr",
             "Health": 50,
             "Damage": 5,
-            "Reward": 2,
-            "TimeToReachEnd": 35
+            "Reward": 4,
+            "TimeToReachEnd": 30
         },
         {
             "Name": "Armed Draugr",
-            "Health": 25,
+            "Health": 35,
             "Damage": 10,
-            "Reward": 2,
-            "TimeToReachEnd": 30
+            "Reward": 4,
+            "TimeToReachEnd": 20
         }
     ]
 }

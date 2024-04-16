@@ -5,24 +5,78 @@
             "SpawnDelay": 2.5,
             "Enemies": [
                 {
-                    "Name": "Draugr",
-                    "Count": 20
+                    "Name": "Zombie",
+                    "Count": 10
                 }
             ]
         },
         {
-            "Reward": 20,
-            "SpawnDelay": 2.5,
+            "Reward": 15,
+            "SpawnDelay": 2.3,
+            "Enemies": [
+                {
+                    "Name": "Zombie",
+                    "Count": 10
+                },
+                {
+                    "Name": "Fast Zombie",
+                    "Count": 8
+                }
+            ]
+        },
+        {
+            "Reward": 25,
+            "SpawnDelay": 2.3,
             "Enemies": [
                 {
                     "Name": "Draugr",
-                    "Count": 20
+                    "Count": 7
+                },
+                {
+                    "Name": "Fast Zombie",
+                    "Count": 4
+                },
+                {
+                    "Name": "Draugr",
+                    "Count": 7
+                },
+                {
+                    "Name": "Fast Zombie",
+                    "Count": 4
+                }
+            ]
+        },
+        {
+            "Reward": 30,
+            "SpawnDelay": 2.2,
+            "Enemies": [
+                {
+                    "Name": "Draugr",
+                    "Count": 10
                 },
                 {
                     "Name": "Armed Draugr",
                     "Count": 5
                 }
             ]
-        }
+        },
+        {
+            "Reward": 50,
+            "SpawnDelay": 2.1,
+            "Enemies": [
+                {
+                    "Name": "Armed Draugr",
+                    "Count": 10
+                },
+                {
+                    "Name": "Armored Draugr",
+                    "Count": 10
+                },
+                {
+                    "Name": "Armed Draugr",
+                    "Count": 10
+                },
+            ]
+        },
     ]
 }
