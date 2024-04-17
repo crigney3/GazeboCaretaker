@@ -21,6 +21,7 @@ Content/*
 !Content/LevelData
 !Content/UIAndWidgets
 !Content/TopDown
+!Content/LandscapeInfo
 # Compiled Object files
 *.slo
 *.lo
