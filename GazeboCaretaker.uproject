@@ -7,7 +7,7 @@
 		{
 			"Name": "GazeboCaretaker",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "PostDefault"
 		}
 	],
 	"Plugins": [
